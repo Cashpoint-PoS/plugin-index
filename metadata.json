@@ -1,11 +1,13 @@
 {
-	"name":"index",
-	"version":"git",
-	"deps":[],
-	"tables":[
-		"crm_addrs",
-		"crm_customers",
-		"crm_groups",
-		"link_crm_customers_crm_groups"
-	]	
+  "name":"index",
+  "version":"git",
+  "deps":[
+    
+  ],
+  "tables":{
+    
+  },
+  "tableRevs":{
+    
+  }
 }
