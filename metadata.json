@@ -1,5 +1,6 @@
 {
   "name":"index",
+  "desc":"CashPoint backend index",
   "version":"git",
   "deps":[
     
